@@ -27,4 +27,5 @@ openssh-server
 gnome-shell
 ubuntu-gnome-desktop
 build-essential
-
+tzdata
+libnss3-tools
