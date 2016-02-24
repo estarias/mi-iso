@@ -29,11 +29,14 @@ sudo apt-get -y install $(cat paquetes.txt)
 sudo dpkg -i debs/*.deb
 sudo apt-get install -f
 
+#Elimina aplicaciones de ubuntu
+sudo apt-get -y remove $(cat removerpaquetes.txt)
+
 # Limpio cache apt
 sudo apt-get clean
 # Limpio paquetes mal descargados
 sudo apt-get autoclean
 # Limpio paquetes ya no necesarios
-sudo apt-get autoremove
+sudo apt-get -y autoremove
 
 

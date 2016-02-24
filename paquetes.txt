@@ -29,3 +29,7 @@ ubuntu-gnome-desktop
 build-essential
 tzdata
 libnss3-tools
+firefox
+firefox-locale-es
+libreoffice
+

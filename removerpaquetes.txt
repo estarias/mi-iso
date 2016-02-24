@@ -1,0 +1,6 @@
+thunderbird
+evolution
+deja-dup
+landscape-client-ui-install
+checkbox-gui 
+
