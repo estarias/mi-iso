@@ -1,3 +1,4 @@
+python-pygame
 python-gtk2
 python-glade2
 python-pip
@@ -5,11 +6,13 @@ python-dev
 python-gnupginterface
 python-m2crypto
 python-beautifulsoup
+python-cjson
 eog
 frei0r-plugins
 gnome-tweak-tool
 ubuntu-restricted-extras
 gnome-disk-utility
+rar
 unrar
 shotwell
 git
@@ -32,4 +35,7 @@ libnss3-tools
 firefox
 firefox-locale-es
 libreoffice
-
+file-roller
+gdebi
+libreoffice-l10n-es
+myspell-es
