@@ -39,3 +39,4 @@ file-roller
 gdebi
 libreoffice-l10n-es
 myspell-es
+gparted
