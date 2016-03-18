@@ -40,3 +40,5 @@ gdebi
 libreoffice-l10n-es
 myspell-es
 gparted
+android-tools-adb
+android-tools-fastboot
