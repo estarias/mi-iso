@@ -32,6 +32,12 @@ sudo apt-get install -f
 #Elimina aplicaciones de ubuntu
 sudo apt-get -y remove $(cat removerpaquetes.txt)
 
+#Instalar java
+sudo sh instalar-java.sh
+
+#Agregar certificados del correo
+sudo sh instalar-certificados.sh
+
 # Limpio cache apt
 sudo apt-get clean
 # Limpio paquetes mal descargados

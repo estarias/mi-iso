@@ -3,4 +3,6 @@ evolution
 deja-dup
 landscape-client-ui-install
 checkbox-gui 
-
+gnome-mahjongg
+gnome-sudoku
+gnome-mines
