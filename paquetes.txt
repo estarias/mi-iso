@@ -3,12 +3,12 @@ python-gtk2
 python-glade2
 python-pip
 python-dev
-python-gnupginterface
 python-m2crypto
 python-beautifulsoup
 python-cjson
 eog
 frei0r-plugins
+gnome-session-flashback
 gnome-tweak-tool
 ubuntu-restricted-extras
 gnome-disk-utility
@@ -22,13 +22,10 @@ flashplugin-installer
 ipython
 gitg
 vlc
-glade-gtk2
 makeself
 mysql-workbench
 unetbootin
 openssh-server
-gnome-shell
-ubuntu-gnome-desktop
 build-essential
 tzdata
 libnss3-tools
@@ -42,3 +39,4 @@ myspell-es
 gparted
 android-tools-adb
 android-tools-fastboot
+libnss3-tools
