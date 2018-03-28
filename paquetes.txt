@@ -24,6 +24,7 @@ gitg
 vlc
 makeself
 mysql-workbench
+mysql-server
 unetbootin
 openssh-server
 build-essential
