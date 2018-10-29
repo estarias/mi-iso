@@ -1,11 +1,3 @@
-python-pygame
-python-gtk2
-python-glade2
-python-pip
-python-dev
-python-m2crypto
-python-beautifulsoup
-python-cjson
 eog
 frei0r-plugins
 gnome-session-flashback
@@ -21,7 +13,6 @@ vim
 flashplugin-installer
 ipython
 gitg
-vlc
 makeself
 mysql-workbench
 mysql-server
