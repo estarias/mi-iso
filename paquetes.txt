@@ -33,3 +33,4 @@ android-tools-adb
 android-tools-fastboot
 libnss3-tools
 sqlitebrowser
+curl
